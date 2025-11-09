@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { ClientsModule } from './modules/clients/clients.module';
+import { SessionsModule } from './modules/sessions/sessions.module';
+import { FeedbacksModule } from './modules/feedbacks/feedbacks.module';
+
+// Add to @Module imports array:
+// ClientsModule,
+// SessionsModule,
+// FeedbacksModule
